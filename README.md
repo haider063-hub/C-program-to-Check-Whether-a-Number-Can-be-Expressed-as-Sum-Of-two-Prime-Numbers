@@ -1,4 +1,4 @@
-#Features of the Program
+# Features of the Program
 
 You can check whether we expressed a number as a sum of two prime numbers.
 
